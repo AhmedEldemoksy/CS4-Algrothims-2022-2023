@@ -1,0 +1,21 @@
+c:\users\a.eldemoksy\documents\visual studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.exe.config
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.exe
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.pdb
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1_Algorithm.Form1.resources
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1_Algorithm.Properties.Resources.resources
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.csproj.GenerateResource.Cache
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.exe
+C:\Users\A.Eldemoksy\Documents\Visual Studio 2013\Projects\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.pdb
+C:\Users\A.Eldemoksy\Desktop\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.exe.config
+C:\Users\A.Eldemoksy\Desktop\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.exe
+C:\Users\A.Eldemoksy\Desktop\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.pdb
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.exe.config
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.exe
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.pdb
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.exe
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\bin\Debug\Sec1-Algorithm.pdb
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.csprojResolveAssemblyReference.cache
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1_Algorithm.Form1.resources
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1_Algorithm.Properties.Resources.resources
+D:\MET\2023\Term-2\CS4\Algorithm\Section\Sec1-Algorithm\Sec1-Algorithm\obj\Debug\Sec1-Algorithm.csproj.GenerateResource.Cache
